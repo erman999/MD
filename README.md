@@ -1,7 +1,8 @@
+# WebDocs: Your Guide to Web Development
 
-# **Documentation Repository for Web Development**
+Welcome to **WebDocs**, a comprehensive resource for web developers. This repository includes detailed guides and best practices for server setups, backend development, frontend integration, and security optimizations.
 
-Welcome to the **MD Documentation Repository**, a collection of in-depth guides and tutorials for various web development tools and technologies. This repository covers topics ranging from server configurations to backend development, and more will be added over time.
+This repository covers topics ranging from server configurations to backend development, and more will be added over time.
 
 > *Note*: Some files are in **Turkish** or **English**, depending on when they were prepared. Use translation tools if necessary.
 
@@ -9,7 +10,7 @@ Welcome to the **MD Documentation Repository**, a collection of in-depth guides 
 
 ## **Purpose**
 
-The goal of this repository is to serve as a **comprehensive resource hub** for developers working on web development. It includes detailed instructions, best practices, and examples for a variety of tools and frameworks.
+WebDocs aims to be a one-stop documentation hub for web development. Whether you're configuring servers, writing backend code, or implementing frontend features, this repository has something for you.
 
 ### **What's Included**
 - **Server Configurations**: Apache, Nginx, and reverse proxies.
