@@ -232,6 +232,7 @@ ls /var/log/*.gz
 You can combine live and archived log searches to get a complete history:
 ```bash
 grep "Accepted" /var/log/auth.log
+cat /var/log/auth.log.1 | grep "Accepted"
 zgrep "Accepted" /var/log/auth.log.*.gz
 ```
 
